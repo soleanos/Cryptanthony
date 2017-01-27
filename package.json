@@ -1,0 +1,19 @@
+{
+  "name": "Cryptanthony",
+  "version": "0.0.1",
+  "description": "Application de crypto ( formation Itechsup)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "latest"
+  },
+  "keywords": [
+    "Electron",
+    "chiffrage",
+    "crypto"
+  ],
+  "author": "Anthony Archambeau",
+  "license": "CC0-1.0"
+}
